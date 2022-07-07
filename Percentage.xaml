@@ -2,7 +2,7 @@
   <x:Members>
     <x:Property Name="Number1" Type="InArgument(x:String)" />
     <x:Property Name="Number2" Type="InArgument(x:String)" />
-    <x:Property Name="Result" Type="InArgument(x:String)" />
+    <x:Property Name="Result" Type="OutArgument(x:String)" />
   </x:Members>
   <mva:VisualBasic.Settings>
     <x:Null />
